@@ -1,5 +1,4 @@
-# The following repository is an in-depth of Generative Adversial Networks. This repository is inspired by an online talk that I attended by 
-Nikolay Manchev, Domino Principal Data Scientist for EMEA.
+# The following repository is an in-depth of Generative Adversial Networks. This repository is inspired by an online talk that I attended by Nikolay Manchev, Domino Principal Data Scientist for EMEA.
 
 In this online conference, Nikolay explained about GAN's and various other variants on GAN's.
 
